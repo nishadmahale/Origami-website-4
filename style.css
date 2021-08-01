@@ -1,0 +1,46 @@
+    .menu{
+
+        display:flex;
+        justify-content: space-between;
+        background-color: darkred;
+        font-size:20px;
+        font-family: sans-serif;
+        font-weight: 400;
+        color: rgb(255, 248, 248);
+    }
+
+    .Origami {
+
+        border-radius:20px;
+
+        background-color: darkred;
+
+        width:310px;
+
+        font-family:Times
+
+
+
+
+
+    }
+
+    .bodyimg{
+
+        margin:0px;
+        background-color: brown;
+
+
+
+
+    }
+
+    .grid img{
+
+        border: 2px solid black;
+        border-radius: 50px;
+
+
+
+    }
+    
